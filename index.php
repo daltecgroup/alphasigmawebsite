@@ -10,7 +10,7 @@ require './connect.php';
 <head>
      <meta charset="utf-8" />
      <link rel="shortcut icon" type="x-icon" href="./img/logo.png">
-     <title>PT. Alpha Sigma Digital</title>
+     <title>PT. Alpha Sigma Digital (ASD)</title>
      <meta content="width=device-width, initial-scale=1.0" name="viewport" />
      <meta content="" name="keywords" />
      <meta content="" name="description" />
