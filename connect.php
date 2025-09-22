@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "mysql-database-asdwebsite";
 $username = "root";
 $password = "LYC3MgijsVJX4IrQOydoqx6mwWcne4rTszsi2aokVyGEbaj8duAi0Hses1zCUdIt";
 $dbname = "asdwebsite";
